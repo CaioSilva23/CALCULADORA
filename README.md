@@ -1,4 +1,4 @@
-# Calculadora 
+# Calculadora - Python
 
  CALCULADORA BÁSICA - PYTHON E PyQt5
  
